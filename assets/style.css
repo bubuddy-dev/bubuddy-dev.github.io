@@ -342,7 +342,8 @@ kbd {
   margin-top: 0;
 }
 
-.panel ol {
+.panel ol,
+.panel ul {
   margin: 8px 0;
   padding-left: 20px;
 }
